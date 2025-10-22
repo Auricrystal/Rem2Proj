@@ -1,6 +1,6 @@
 #pragma once
 #include "CoreMinimal.h"
-#include "E:\Epic Games\UE_5.2\Engine\Source\Runtime\Engine\Classes\Components\SplineComponent.h"
+#include "Components/SplineComponent.h"
 #include "SplineData.h"
 #include "SplineComponentGunfire.generated.h"
 

@@ -1,0 +1,1033 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\UnrealProjects\\Remnant2-Base\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D4A44B-CE30-3614-8625-474C67B7BAAD}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\PrismStone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6D4A44B-CE30-3614-8625-474C67B7BAAD}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\Remnant\\Public\\PrismStone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D4A44B-CE30-3614-8625-474C67B7BAAD}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\PrismSegmentDataObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6D4A44B-CE30-3614-8625-474C67B7BAAD}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\Remnant\\Public\\PrismSegmentDataObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D4A44B-CE30-3614-8625-474C67B7BAAD}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\PrismSegment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6D4A44B-CE30-3614-8625-474C67B7BAAD}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\Remnant\\Public\\PrismSegment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\PrismStone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\Remnant\\Public\\PrismStone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D4A44B-CE30-3614-8625-474C67B7BAAD}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Private\\PrismStone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6D4A44B-CE30-3614-8625-474C67B7BAAD}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\Remnant\\Private\\PrismStone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\DetailLevelChangedDelegateDelegate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\GunfireRuntime\\Public\\DetailLevelChangedDelegateDelegate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\RangedWeapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\RangedWeapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\RangedWeaponInstanceData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\RangedWeaponInstanceData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\RangedWeaponInstanceData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Private\\RangedWeaponInstanceData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\RemnantRangedWeapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\Remnant\\Public\\RemnantRangedWeapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\Equipment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\Equipment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\RemnantWeaponMod.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\Remnant\\Public\\RemnantWeaponMod.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\Equipment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Private\\Equipment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\DamageInfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Private\\DamageInfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\ActionBuff.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\Remnant\\Public\\ActionBuff.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActionComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\ActionComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActionBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\ActionBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\CraftingRecipe_Base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Private\\CraftingRecipe_Base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\CraftingRecipe_Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\CraftingRecipe_Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\CraftingRecipeList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\CraftingRecipeList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorModifier.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\ActorModifier.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\ActorModifier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Private\\ActorModifier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\GameUtil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Private\\GameUtil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableEntry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\SpawnTableEntry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableElement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\SpawnTableElement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\SpawnTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE681C9-09D6-39CF-B917-2A8921AF5903}|Intermediate\\ProjectFiles\\UE5.vcxproj|E:\\Epic Games\\UE_5.2\\Engine\\Source\\Runtime\\Engine\\Private\\Animation\\AnimBlueprintGeneratedClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationSetSlot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\ActorCustomizationSetSlot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationSetEffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\ActorCustomizationSetEffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationSet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\ActorCustomizationSet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationID.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\ActorCustomizationID.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationEffectEntry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\ActorCustomizationEffectEntry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\AudioCustomization.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\AudioCustomization.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE681C9-09D6-39CF-B917-2A8921AF5903}|Intermediate\\ProjectFiles\\UE5.vcxproj|E:\\Epic Games\\UE_5.2\\Engine\\Source\\Runtime\\Engine\\Classes\\Animation\\AnimBlueprintGeneratedClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationEffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\ActorCustomizationEffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\AudioCustomizationEffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\AudioCustomizationEffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\ActorCustomizationBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ParticleCustomizationEffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\ParticleCustomizationEffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\RemnantWeaponParticleCustomization.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\Remnant\\Public\\RemnantWeaponParticleCustomization.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\ActorCustomizationID.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Private\\ActorCustomizationID.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\InheritableObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\InheritableObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\SpawnTableItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\SpawnTableSmartAmmo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\Remnant\\Public\\SpawnTableSmartAmmo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableActor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\SpawnTableActor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE681C9-09D6-39CF-B917-2A8921AF5903}|Intermediate\\ProjectFiles\\UE5.vcxproj|E:\\Epic Games\\UE_5.2\\Engine\\Plugins\\EnhancedInput\\Source\\EnhancedInput\\Private\\InputAction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.MakeFile.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\ActorCustomizationComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Private\\SpawnTableSmartAmmo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\Remnant\\Private\\SpawnTableSmartAmmo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\SpawnTableTrait.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\Remnant\\Public\\SpawnTableTrait.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\SpawnTableExperience.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\Remnant\\Public\\SpawnTableExperience.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\SpawnTableCharacterMod.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\Remnant\\Public\\SpawnTableCharacterMod.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\SpawnTableChallenge.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\Remnant\\Public\\SpawnTableChallenge.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\SpawnTableAccountAward.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\Remnant\\Public\\SpawnTableAccountAward.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableEncounterParams.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\SpawnTableEncounterParams.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableContextObjectInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\SpawnTableContextObjectInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\SpawnTableCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE681C9-09D6-39CF-B917-2A8921AF5903}|Intermediate\\ProjectFiles\\UE5.vcxproj|E:\\Epic Games\\UE_5.2\\Engine\\Source\\Runtime\\AIModule\\Classes\\EnvironmentQuery\\EnvQuery.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ConditionList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\ConditionList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\UseableItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\UseableItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\Trait.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\Trait.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\RemnantTrait.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\Remnant\\Public\\RemnantTrait.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\DamageClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Public\\DamageClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\DamageClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A218D26-4A4C-32FC-8F1B-70E0F2C56114}|Intermediate\\ProjectFiles\\Remnant2.vcxproj|solutionrelative:Source\\GunfireRuntime\\Private\\DamageClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE681C9-09D6-39CF-B917-2A8921AF5903}|Intermediate\\ProjectFiles\\UE5.vcxproj|E:\\EPIC GAMES\\UE_5.2\\ENGINE\\SOURCE\\RUNTIME\\ENGINE\\CLASSES\\ENGINE\\DATATABLE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrismSegment.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\PrismSegment.h",
+              "RelativeDocumentMoniker": "Source\\Remnant\\Public\\PrismSegment.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\PrismSegment.h",
+              "RelativeToolTip": "Source\\Remnant\\Public\\PrismSegment.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-22T19:47:56.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrismSegmentDataObject.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\PrismSegmentDataObject.h",
+              "RelativeDocumentMoniker": "Source\\Remnant\\Public\\PrismSegmentDataObject.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\PrismSegmentDataObject.h",
+              "RelativeToolTip": "Source\\Remnant\\Public\\PrismSegmentDataObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-22T19:47:51.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrismStone.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\PrismStone.h",
+              "RelativeDocumentMoniker": "Source\\Remnant\\Public\\PrismStone.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\PrismStone.h",
+              "RelativeToolTip": "Source\\Remnant\\Public\\PrismStone.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-22T19:47:42.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrismStone.cpp",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Private\\PrismStone.cpp",
+              "RelativeDocumentMoniker": "Source\\Remnant\\Private\\PrismStone.cpp",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Private\\PrismStone.cpp",
+              "RelativeToolTip": "Source\\Remnant\\Private\\PrismStone.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T19:24:40.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrismStone.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\PrismStone.h",
+              "RelativeDocumentMoniker": "Source\\Remnant\\Public\\PrismStone.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\PrismStone.h",
+              "RelativeToolTip": "Source\\Remnant\\Public\\PrismStone.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-22T19:13:23.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RangedWeapon.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\RangedWeapon.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\RangedWeapon.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\RangedWeapon.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\RangedWeapon.h",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAH4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T20:05:18.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetailLevelChangedDelegateDelegate.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\DetailLevelChangedDelegateDelegate.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\DetailLevelChangedDelegateDelegate.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\DetailLevelChangedDelegateDelegate.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\DetailLevelChangedDelegateDelegate.h",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T20:05:09.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RangedWeaponInstanceData.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\RangedWeaponInstanceData.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\RangedWeaponInstanceData.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\RangedWeaponInstanceData.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\RangedWeaponInstanceData.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-28T12:38:51.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RangedWeaponInstanceData.cpp",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\RangedWeaponInstanceData.cpp",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Private\\RangedWeaponInstanceData.cpp",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\RangedWeaponInstanceData.cpp",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Private\\RangedWeaponInstanceData.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-28T12:30:47.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Equipment.cpp",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\Equipment.cpp",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Private\\Equipment.cpp",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\Equipment.cpp",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Private\\Equipment.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-28T12:28:52.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RemnantRangedWeapon.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\RemnantRangedWeapon.h",
+              "RelativeDocumentMoniker": "Source\\Remnant\\Public\\RemnantRangedWeapon.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\RemnantRangedWeapon.h",
+              "RelativeToolTip": "Source\\Remnant\\Public\\RemnantRangedWeapon.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-28T11:39:34.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RemnantWeaponMod.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\RemnantWeaponMod.h",
+              "RelativeDocumentMoniker": "Source\\Remnant\\Public\\RemnantWeaponMod.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\RemnantWeaponMod.h",
+              "RelativeToolTip": "Source\\Remnant\\Public\\RemnantWeaponMod.h",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-28T09:15:54.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Equipment.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\Equipment.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\Equipment.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\Equipment.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\Equipment.h",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-01-21T01:27:07.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ActionBuff.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\ActionBuff.h",
+              "RelativeDocumentMoniker": "Source\\Remnant\\Public\\ActionBuff.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\ActionBuff.h",
+              "RelativeToolTip": "Source\\Remnant\\Public\\ActionBuff.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-01-21T01:31:24.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ActionComponent.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActionComponent.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\ActionComponent.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActionComponent.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\ActionComponent.h",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFUAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-01-21T01:30:27.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ActionBase.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActionBase.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\ActionBase.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActionBase.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\ActionBase.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-01-21T01:29:53.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DamageInfo.cpp",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\DamageInfo.cpp",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Private\\DamageInfo.cpp",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\DamageInfo.cpp",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Private\\DamageInfo.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-21T01:32:02.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CraftingRecipe_Base.cpp",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\CraftingRecipe_Base.cpp",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Private\\CraftingRecipe_Base.cpp",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\CraftingRecipe_Base.cpp",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Private\\CraftingRecipe_Base.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-28T01:47:39.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CraftingRecipe_Base.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\CraftingRecipe_Base.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\CraftingRecipe_Base.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\CraftingRecipe_Base.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\CraftingRecipe_Base.h",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAFQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:38:51.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CraftingRecipeList.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\CraftingRecipeList.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\CraftingRecipeList.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\CraftingRecipeList.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\CraftingRecipeList.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:14.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ActorModifier.cpp",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\ActorModifier.cpp",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Private\\ActorModifier.cpp",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\ActorModifier.cpp",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Private\\ActorModifier.cpp",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAswFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-27T23:21:02.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GameUtil.cpp",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\GameUtil.cpp",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Private\\GameUtil.cpp",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\GameUtil.cpp",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Private\\GameUtil.cpp",
+              "ViewState": "AQIAANsAAAAAAAAAAAAgwOcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-27T23:21:03.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SpawnTable.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTable.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\SpawnTable.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTable.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\SpawnTable.h",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvwsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SpawnTableEntry.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableEntry.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\SpawnTableEntry.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableEntry.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\SpawnTableEntry.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ActorModifier.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorModifier.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\ActorModifier.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorModifier.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\ActorModifier.h",
+              "ViewState": "AQIAADMAAAAAAAAAAAAgwEYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AnimBlueprintGeneratedClass.cpp",
+              "DocumentMoniker": "E:\\Epic Games\\UE_5.2\\Engine\\Source\\Runtime\\Engine\\Private\\Animation\\AnimBlueprintGeneratedClass.cpp",
+              "ToolTip": "E:\\Epic Games\\UE_5.2\\Engine\\Source\\Runtime\\Engine\\Private\\Animation\\AnimBlueprintGeneratedClass.cpp [Read Only]",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-21T17:35:09.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ActorCustomizationSetSlot.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationSetSlot.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\ActorCustomizationSetSlot.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationSetSlot.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\ActorCustomizationSetSlot.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SpawnTableElement.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableElement.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\SpawnTableElement.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableElement.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\SpawnTableElement.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ActorCustomizationSetEffect.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationSetEffect.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\ActorCustomizationSetEffect.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationSetEffect.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\ActorCustomizationSetEffect.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ActorCustomizationSet.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationSet.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\ActorCustomizationSet.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationSet.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\ActorCustomizationSet.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ActorCustomizationID.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationID.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\ActorCustomizationID.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationID.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\ActorCustomizationID.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ActorCustomizationEffectEntry.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationEffectEntry.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\ActorCustomizationEffectEntry.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationEffectEntry.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\ActorCustomizationEffectEntry.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AudioCustomization.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\AudioCustomization.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\AudioCustomization.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\AudioCustomization.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\AudioCustomization.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AnimBlueprintGeneratedClass.h",
+              "DocumentMoniker": "E:\\Epic Games\\UE_5.2\\Engine\\Source\\Runtime\\Engine\\Classes\\Animation\\AnimBlueprintGeneratedClass.h",
+              "ToolTip": "E:\\Epic Games\\UE_5.2\\Engine\\Source\\Runtime\\Engine\\Classes\\Animation\\AnimBlueprintGeneratedClass.h [Read Only]",
+              "ViewState": "AQIAAFgBAAAAAAAAAAAQwGMBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-21T17:34:47.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ActorCustomizationEffect.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationEffect.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\ActorCustomizationEffect.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationEffect.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\ActorCustomizationEffect.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AudioCustomizationEffect.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\AudioCustomizationEffect.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\AudioCustomizationEffect.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\AudioCustomizationEffect.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\AudioCustomizationEffect.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ParticleCustomizationEffect.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ParticleCustomizationEffect.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\ParticleCustomizationEffect.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ParticleCustomizationEffect.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\ParticleCustomizationEffect.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RemnantWeaponParticleCustomization.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\RemnantWeaponParticleCustomization.h",
+              "RelativeDocumentMoniker": "Source\\Remnant\\Public\\RemnantWeaponParticleCustomization.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\RemnantWeaponParticleCustomization.h",
+              "RelativeToolTip": "Source\\Remnant\\Public\\RemnantWeaponParticleCustomization.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ActorCustomizationBase.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationBase.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\ActorCustomizationBase.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationBase.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\ActorCustomizationBase.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ActorCustomizationID.cpp",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\ActorCustomizationID.cpp",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Private\\ActorCustomizationID.cpp",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\ActorCustomizationID.cpp",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Private\\ActorCustomizationID.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-27T23:21:03.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Microsoft.MakeFile.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.MakeFile.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.MakeFile.targets",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwCsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2023-12-21T16:33:03.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ActorCustomizationComponent.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationComponent.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\ActorCustomizationComponent.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ActorCustomizationComponent.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\ActorCustomizationComponent.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "InputAction.cpp",
+              "DocumentMoniker": "E:\\Epic Games\\UE_5.2\\Engine\\Plugins\\EnhancedInput\\Source\\EnhancedInput\\Private\\InputAction.cpp",
+              "ToolTip": "E:\\Epic Games\\UE_5.2\\Engine\\Plugins\\EnhancedInput\\Source\\EnhancedInput\\Private\\InputAction.cpp",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAAMQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-21T16:27:32.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SpawnTableItem.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableItem.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\SpawnTableItem.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableItem.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\SpawnTableItem.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SpawnTableSmartAmmo.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\SpawnTableSmartAmmo.h",
+              "RelativeDocumentMoniker": "Source\\Remnant\\Public\\SpawnTableSmartAmmo.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\SpawnTableSmartAmmo.h",
+              "RelativeToolTip": "Source\\Remnant\\Public\\SpawnTableSmartAmmo.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SpawnTableActor.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableActor.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\SpawnTableActor.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableActor.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\SpawnTableActor.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "InheritableObject.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\InheritableObject.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\InheritableObject.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\InheritableObject.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\InheritableObject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SpawnTableSmartAmmo.cpp",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Private\\SpawnTableSmartAmmo.cpp",
+              "RelativeDocumentMoniker": "Source\\Remnant\\Private\\SpawnTableSmartAmmo.cpp",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Private\\SpawnTableSmartAmmo.cpp",
+              "RelativeToolTip": "Source\\Remnant\\Private\\SpawnTableSmartAmmo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-27T23:21:03.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SpawnTableTrait.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\SpawnTableTrait.h",
+              "RelativeDocumentMoniker": "Source\\Remnant\\Public\\SpawnTableTrait.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\SpawnTableTrait.h",
+              "RelativeToolTip": "Source\\Remnant\\Public\\SpawnTableTrait.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SpawnTableExperience.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\SpawnTableExperience.h",
+              "RelativeDocumentMoniker": "Source\\Remnant\\Public\\SpawnTableExperience.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\SpawnTableExperience.h",
+              "RelativeToolTip": "Source\\Remnant\\Public\\SpawnTableExperience.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SpawnTableCharacterMod.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\SpawnTableCharacterMod.h",
+              "RelativeDocumentMoniker": "Source\\Remnant\\Public\\SpawnTableCharacterMod.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\SpawnTableCharacterMod.h",
+              "RelativeToolTip": "Source\\Remnant\\Public\\SpawnTableCharacterMod.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SpawnTableChallenge.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\SpawnTableChallenge.h",
+              "RelativeDocumentMoniker": "Source\\Remnant\\Public\\SpawnTableChallenge.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\SpawnTableChallenge.h",
+              "RelativeToolTip": "Source\\Remnant\\Public\\SpawnTableChallenge.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SpawnTableAccountAward.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\SpawnTableAccountAward.h",
+              "RelativeDocumentMoniker": "Source\\Remnant\\Public\\SpawnTableAccountAward.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\SpawnTableAccountAward.h",
+              "RelativeToolTip": "Source\\Remnant\\Public\\SpawnTableAccountAward.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SpawnTableEncounterParams.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableEncounterParams.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\SpawnTableEncounterParams.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableEncounterParams.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\SpawnTableEncounterParams.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SpawnTableContextObjectInterface.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableContextObjectInterface.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\SpawnTableContextObjectInterface.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableContextObjectInterface.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\SpawnTableContextObjectInterface.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SpawnTableCharacter.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableCharacter.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\SpawnTableCharacter.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\SpawnTableCharacter.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\SpawnTableCharacter.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EnvQuery.h",
+              "DocumentMoniker": "E:\\Epic Games\\UE_5.2\\Engine\\Source\\Runtime\\AIModule\\Classes\\EnvironmentQuery\\EnvQuery.h",
+              "ToolTip": "E:\\Epic Games\\UE_5.2\\Engine\\Source\\Runtime\\AIModule\\Classes\\EnvironmentQuery\\EnvQuery.h [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-21T14:57:54.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Trait.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\Trait.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\Trait.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\Trait.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\Trait.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DataTable.h",
+              "DocumentMoniker": "E:\\Epic Games\\UE_5.2\\Engine\\Source\\Runtime\\Engine\\Classes\\Engine\\DataTable.h",
+              "ToolTip": "E:\\Epic Games\\UE_5.2\\Engine\\Source\\Runtime\\Engine\\Classes\\Engine\\DataTable.h [Read Only]",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEAAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-22T01:35:25.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ConditionList.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ConditionList.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\ConditionList.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\ConditionList.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\ConditionList.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UseableItem.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\UseableItem.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\UseableItem.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\UseableItem.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\UseableItem.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RemnantTrait.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\RemnantTrait.h",
+              "RelativeDocumentMoniker": "Source\\Remnant\\Public\\RemnantTrait.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\Remnant\\Public\\RemnantTrait.h",
+              "RelativeToolTip": "Source\\Remnant\\Public\\RemnantTrait.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DamageClass.cpp",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\DamageClass.cpp",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Private\\DamageClass.cpp",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Private\\DamageClass.cpp",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Private\\DamageClass.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-27T23:21:03.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DamageClass.h",
+              "DocumentMoniker": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\DamageClass.h",
+              "RelativeDocumentMoniker": "Source\\GunfireRuntime\\Public\\DamageClass.h",
+              "ToolTip": "R:\\UnrealProjects\\Remnant2-Base\\Source\\GunfireRuntime\\Public\\DamageClass.h",
+              "RelativeToolTip": "Source\\GunfireRuntime\\Public\\DamageClass.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-27T23:21:03.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
